@@ -17,3 +17,9 @@
     width:50%;
     float:left;
 }
+#logo{
+    float:left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:70px;
+    width:600px;
+}
