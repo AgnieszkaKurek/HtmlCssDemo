@@ -20,11 +20,12 @@
 #logo{
     float:left;
     font-family: 'Josefin Sans', sans-serif;
-    font-size:70px;
+    font-size:50px;
     width:600px;
+    text-align:center
 }
 #zegar{
     float:left;
     font-family: 'Josefin Sans', sans-serif;
-    font-size:70px;
+    font-size:50px;
 }
