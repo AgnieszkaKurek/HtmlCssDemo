@@ -36,3 +36,10 @@
     background-color:dodgerblue;
     float:left;
 }
+.tile2 {
+    margin:10px;
+    width:230px;
+    height:142px;
+    background-color:gray;
+    float:left;
+}
