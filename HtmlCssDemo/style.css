@@ -42,8 +42,10 @@
     height:142px;
     background-color:dodgerblue;
     float:left;
-    text-align:center;
-   
+    text-align:center; 
+}
+.tile1:hover{
+background-color:antiquewhite;
 }
 .tile2 {
     margin:10px;
@@ -53,6 +55,9 @@
     float:left;
     text-align:center;
 }
+.tile2:hover{
+background-color:antiquewhite;
+}
 .tile3 {
     margin:10px;
     width:230px;
@@ -60,6 +65,9 @@
     background-color:greenyellow;
     float:left;
     text-align:center;
+}
+.tile3:hover{
+background-color:antiquewhite;
 }
 .tile4 {
     margin:10px;
@@ -85,12 +93,18 @@
     background-color:red;
     float:left;
 }
+.yt:hover{
+background-color:antiquewhite;
+}
 .fb {
     margin:10px;
     width:105px;
     height:142px;
     background-color:cornflowerblue;
     float:left;
+}
+.fb:hover{
+background-color:antiquewhite;
 }
 .gplus {
     margin:10px;
@@ -99,12 +113,18 @@
     background-color:orange;
     float:left;
 }
+.gplus:hover{
+background-color:antiquewhite;
+}
 .tw {
     margin:10px;
     width:105px;
     height:142px;
     background-color:deepskyblue;
     float:left;
+}
+.tw:hover{
+background-color:antiquewhite;
 }
 
 
