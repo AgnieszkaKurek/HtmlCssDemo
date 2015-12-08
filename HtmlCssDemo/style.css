@@ -34,7 +34,7 @@
     font-size:50px;
     margin-top:10px;
     margin-bottom:10px;
-    text-align:left;
+    
 }
 .tile1 {
     margin:10px;
@@ -42,6 +42,8 @@
     height:142px;
     background-color:dodgerblue;
     float:left;
+    text-align:center;
+   
 }
 .tile2 {
     margin:10px;
@@ -49,6 +51,7 @@
     height:142px;
     background-color:gray;
     float:left;
+    text-align:center;
 }
 .tile3 {
     margin:10px;
@@ -56,18 +59,23 @@
     height:142px;
     background-color:greenyellow;
     float:left;
+    text-align:center;
 }
 .tile4 {
     margin:10px;
-    width:480px;
-    height:142px;
+    width:420px;
+    height:82px;
     background-color:orangered;
+    text-align:center;
+    font-size:26px;
+    padding:30px;
 }
 .tile5 {
     margin:10px;
     width:480px;
     height:304px;
     background-color:gray;
+    text-align:center; 
 }
 .yt {
     margin:10px;
