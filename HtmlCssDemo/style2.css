@@ -78,3 +78,11 @@
 .gplus:hover{
     background-color:orange;
 }
+a.sociallink{
+    color:white;
+    text-decoration:none;
+    display:block;
+    width:250px;
+    height:155px;
+    
+}
