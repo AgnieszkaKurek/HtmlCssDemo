@@ -41,6 +41,9 @@
     <Content Include="fontello-f340d09c\fontello-f340d09c\font\fontello.ttf" />
     <Content Include="fontello-f340d09c\fontello-f340d09c\font\fontello.woff" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="kurs_html3\kurs_html3\www\.htaccess" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>
   </PropertyGroup>
