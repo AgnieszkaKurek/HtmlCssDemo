@@ -81,10 +81,11 @@ background-color:antiquewhite;
 }
 .tile5 {
     margin:10px;
-    width:480px;
-    height:304px;
+    width:420px;
+    height:264px;
     background-color:gray;
-    text-align:center; 
+    text-align:justify;
+    padding:30px; 
 }
 .yt {
     margin:10px;
@@ -125,6 +126,13 @@ background-color:antiquewhite;
 }
 .tw:hover{
 background-color:antiquewhite;
+}
+a.tilelink{
+    color:white;
+    text-decoration:none;
+    display:block;
+    width:230px;
+    height:142px;
 }
 
 
