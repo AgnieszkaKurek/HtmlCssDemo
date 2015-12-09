@@ -83,6 +83,10 @@ a.sociallink{
     text-decoration:none;
     display:block;
     width:250px;
-    height:155px;
-    
+    height:155px; 
+}
+.footer{
+    text-align:center;
+    background-color:hotpink;
+    padding:30px;
 }
