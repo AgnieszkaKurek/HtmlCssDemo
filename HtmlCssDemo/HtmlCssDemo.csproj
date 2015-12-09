@@ -33,16 +33,15 @@
     <Content Include="fontello-f340d09c\fontello-f340d09c\LICENSE.txt" />
     <Content Include="fontello-f340d09c\fontello-f340d09c\README.txt" />
     <Content Include="index.html" />
+    <Content Include="index2.html" />
     <Content Include="style.css" />
+    <Content Include="style2.css" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fontello-f340d09c\fontello-f340d09c\config.json" />
     <Content Include="fontello-f340d09c\fontello-f340d09c\font\fontello.eot" />
     <Content Include="fontello-f340d09c\fontello-f340d09c\font\fontello.ttf" />
     <Content Include="fontello-f340d09c\fontello-f340d09c\font\fontello.woff" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="kurs_html3\kurs_html3\www\.htaccess" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>
