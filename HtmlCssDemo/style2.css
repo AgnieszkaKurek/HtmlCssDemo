@@ -136,15 +136,16 @@ ol > li > ul{
     height:40px;
     font-size:15px;
     display:none;
-
 }
+    ol > li:hover > ul {
+    display:block;
+    }
 ol > li > ul > li {
     background-color:hotpink;
     position:relative;
     z-index:100px;
     border-top:1px dashed;
     border-top-color:deeppink;
-
 }
 ol > li > ul > li:hover{
     background-color:palevioletred;
