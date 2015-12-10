@@ -116,4 +116,11 @@ ol > li{
     float:left;
     width:170px;
     height:40px;
+    border-right:1px dashed;
+    border-right-color:deeppink;
+}
+ol > li:first-child{
+    border-left:1px dashed;
+    border-left-color:deeppink;
+}
 }
