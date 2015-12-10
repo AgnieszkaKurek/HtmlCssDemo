@@ -123,4 +123,9 @@ ol > li:first-child{
     border-left:1px dashed;
     border-left-color:deeppink;
 }
+ol > li:hover{
+    background-color:palevioletred;
+}
+ol > li:hover > a{
+    color:deeppink;
 }
